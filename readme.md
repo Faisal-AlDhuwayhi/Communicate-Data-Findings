@@ -1,5 +1,5 @@
 # California Flights Dataset
-## by Faisal AlDhuwayhi
+## by Faisal Aldhuwayhi
 
 
 ## Dataset
